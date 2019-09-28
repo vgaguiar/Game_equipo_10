@@ -93,3 +93,8 @@ En el escenario, los personajes batallarán de la siguiente forma:
     - El personaje 3 batalla con el 4.
     - El victorioso de la primer batalla se cruza en batalla con el victorioso de la segunda.
     - Quien gane se declara victorioso de la Tierra Media.
+    
+# Anexo: Diagrama de clases
+
+![](Class-Diagram.png?raw=true "Class Diagram")
+* _Las clases en verde se encuentran definidas en el proyecto ConsoleGame._
