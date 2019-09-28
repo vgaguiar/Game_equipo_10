@@ -36,7 +36,7 @@ Los encuentros de intercambio es donde un personaje puede compartir uno o más i
 
 Los encuentros de combate son, bueno, eso, encuentros de combate. Dos personajes se batirán a duelo. El duelo termina solamente cuando uno de ellos muere.
 
-## Escenarios _[Scenarios]
+## Escenarios _[Scenarios]_
 
 Un escenario es la historia de uno o más personajes que se encuentran en uno o más encuentros. Un escenario es, escencialmente, una historia.
 
