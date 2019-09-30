@@ -42,6 +42,11 @@ Un escenario es la historia de uno o más personajes que se encuentran en uno o 
 
 Existe un escenario interactivo que viene con el juego llamado Escenario de Consola (_Console Scenario_). Este escenario es 100% interactivo para que el jugador cree los personajes, les asigne elementos y genere encuentros. Este escenario termina automáticamente cuando quedan menos de dos personajes vivos.
 
+----
+![](Read-Write-Code.png)
+
+----
+
 # Desafío
 
 ## Parte 0: Repo
