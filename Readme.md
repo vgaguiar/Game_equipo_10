@@ -99,6 +99,11 @@ En el escenario, los personajes batallarán de la siguiente forma:
     - El victorioso de la primer batalla se cruza en batalla con el victorioso de la segunda.
     - Quien gane se declara victorioso de la Tierra Media.
     
+## Parte VII
+
+Con este ejercicio se les ha entregado un diagrama de clases como el que se muestra al final de este Readme.
+Incorporen al diagrama (dibujen en la hoja) los elementos que han agregado en los desafíos anteriores.
+    
 # Anexo: Diagrama de clases
 
 ![](Class-Diagram.png?raw=true "Class Diagram")
