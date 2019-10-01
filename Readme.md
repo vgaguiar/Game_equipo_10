@@ -66,12 +66,6 @@ Ver instrucciones para crear un issue [aquí](https://help.github.com/en/article
 Cada integrante del equipo deberá agregar un elemento nuevo sugerido como Issue por otro compañero. 
 
 Deberán desarrollarlo por separado e incluirlos al proyecto utilizando Pull Requests que refieran al issue del elemento correspondiente. Utilizando keywords pueden cerrar el issue. Ver [aquí](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-the-same-repository) cómo hacerlo.
-
-## Parte III: Agregar un elemento compuesto por otros elementos
-
-Algunos elementos pueden ser creados como la composición de otros dos elementos, que aumentan sus capacidades de ataque y/o defensa al usarse.
-
-Agreguen un item compuesto por otros dos. Si no se les ocurre ninguna idea original, agreguen un Bastón Mágico, compuesto por mágia y un bastón. Al atacar, suma el puntaje de ataque de ambos para determinar el valor de ataque final.
     
 # Anexo: Diagrama de clases
 
