@@ -59,11 +59,13 @@ Lo primero que este juego necesita son algunos elementos adicionales. Los elemen
 
 En un repo compartido por los integrantes del equipo, cada integrante deberá solicitar utilizando un Issue de GitHub un elemento que desee agregar al juego. Por ejemplo, un integrante puede solicitar un _Escudo Medieval_, que tiene poder de defensa de 30 puntos.
 
+Ver instrucciones para crear un issue [aquí](https://help.github.com/en/articles/creating-an-issue).
+
 ## Parte II: Agregar elementos
 
 Cada integrante del equipo deberá agregar un elemento nuevo sugerido como Issue por otro compañero. 
 
-Deberán desarrollarlo por separado e incluirlos al proyecto utilizando Pull Requests que refieran al issue del elemento correspondiente.
+Deberán desarrollarlo por separado e incluirlos al proyecto utilizando Pull Requests que refieran al issue del elemento correspondiente. Utilizando keywords pueden cerrar el issue. Ver [aquí](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-the-same-repository) cómo hacerlo.
 
 ## Parte III: Agregar un elemento compuesto por otros elementos
 
