@@ -66,6 +66,45 @@ Ver instrucciones para crear un issue [aquí](https://help.github.com/en/article
 Cada integrante del equipo deberá agregar un elemento nuevo sugerido como Issue por otro compañero. 
 
 Deberán desarrollarlo por separado e incluirlos al proyecto utilizando Pull Requests que refieran al issue del elemento correspondiente. Utilizando keywords pueden cerrar el issue. Ver [aquí](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-the-same-repository) cómo hacerlo.
+
+## Parte III: Agregar un elemento compuesto por otros elementos
+
+Algunos elementos pueden ser creados como la composición de otros dos elementos, que aumentan sus capacidades de ataque y/o defensa al usarse.
+
+Agreguen un item compuesto por otros dos. Si no se les ocurre ninguna idea original, agreguen un Bastón Mágico, compuesto por mágia y un bastón. Al atacar, suma el puntaje de ataque de ambos para determinar el valor de ataque final.
+
+## Parte IV: Agregar un elemento de poder compuesto por otros objectos
+
+Creen el elemento _Guante de Poder_, que por sí mismo no tiene ningún efecto, pero su poder aumenta por cada _Gema_ que se le agrega. Las Gemas <ins>no son elementos que un persona pueda adquirir directamente</ins>. Solamente funcionan cuando son puestas en un Guante de Poder.
+
+## Parte V: Traigan a los [Trolls](https://lotr.fandom.com/wiki/Trolls)
+
+Agreguen el nuevo tipo de personaje Troll, que nace con un palo que les permite atacar, y una coraza que los proteje de los ataques.
+
+Si no tienen creados los elementos Coraza y Palo, créenlos ahora.
+
+## Parte VI: Crear un escenario de prueba
+
+Creen un escenario con un personaje por integrante del equipo. Cada personaje tendrá 2 items al azar.
+
+En el escenario, los personajes batallarán de la siguiente forma:
+
+- Si son 3 integrantes:
+    - El personaje 1 batalla con el 2.
+    - El victorioso recupera la totalidad de la vida
+    - El victorioso (recuperado) batalla con el 3.
+    - Quien gane se declara victorioso de la Tierra Media.
+
+- Si son 4 integrantes:
+    - El personaje 1 batalla con el 2.
+    - El personaje 3 batalla con el 4.
+    - El victorioso de la primer batalla se cruza en batalla con el victorioso de la segunda.
+    - Quien gane se declara victorioso de la Tierra Media.
+    
+## Parte VII
+
+Con este ejercicio se les ha entregado un diagrama de clases como el que se muestra al final de este Readme.
+Incorporen al diagrama (dibujen en la hoja) los elementos que han agregado en los desafíos anteriores.
     
 # Anexo: Diagrama de clases
 
