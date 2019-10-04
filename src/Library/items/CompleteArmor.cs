@@ -14,10 +14,11 @@ namespace RoleplayGame.Items
             get
             {
                 return 50;
-
-
+            }
+        }
         public override string ToString()
         {
             return "Complete Armor";
+        }
     }
 }
