@@ -2,7 +2,7 @@ namespace RoleplayGame.Items {
     /// <summary>
     /// Magia. Permite atacar y defender.
     /// </summary>
-    public class BowAndArrow : IAttackItem {
+    public class FireAx : IAttackItem {
         /// <summary>
         /// El poder de ataque
         /// </summary>
